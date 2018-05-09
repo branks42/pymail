@@ -1,5 +1,6 @@
 import smtplib
 
+#This program is only designed to run with a gmail account at the moment.
 host = 'smtp.gmail.com'
 port = 587
 username = 'Your email address'
