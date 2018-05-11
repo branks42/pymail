@@ -104,5 +104,5 @@ obj.add_user('name', 143.43, email='email@email.com')
 obj.add_user('name', 143.43, email='email@email.com')
 obj.add_user('name', 143.43, email='email@email.com')
 obj.get_details()
-
+#send mail
 obj.send_email()
