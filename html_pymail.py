@@ -24,8 +24,8 @@ try:
 	<html>
 	  <head></head>
 	  <body>
-	    <p>Hello.<br>
-	      Test <b>message</b>
+	    <p>Your email message<br>
+	      goes <b>HERE</b>
 	    </p>
 	  </body>
 	</html>
