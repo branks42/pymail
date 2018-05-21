@@ -19,7 +19,7 @@ try:
 	the_msg['From'] = from_email
 	#the_msg['To'] = to_list
 
-	plain_txt = 'Test message here'
+	plain_txt = 'Test message'
 	html_txt = '''\
 	<html>
 	  <head></head>
